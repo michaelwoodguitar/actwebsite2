@@ -2,4 +2,4 @@
 
 Coming soon!
 
-Development site (here)[https://michaelwoodguitar.github.io/actwebsite2/]
+Development site [here](https://michaelwoodguitar.github.io/actwebsite2/)
