@@ -34,14 +34,11 @@ menu:
     - name: Locations
       pageRef: /locations
       weight: 3
-    - name: Knowledge Base
-      pageRef: /docs
-      weight: 4
     - name: Contact
       url: /contact
-      weight: 5
+      weight: 4
     - name: Search
-      weight: 6
+      weight: 5
       params:
         type: search
           # - name: GitHub
