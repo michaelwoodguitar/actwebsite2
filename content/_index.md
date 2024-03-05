@@ -8,24 +8,29 @@ toc: false
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Noise surveys, testing 
+  Noise surveys, testing
    <br class="sm:hx-block hx-hidden" />
    and advice
 {{< /hextra/hero-headline >}}
 </div>
 
+<p>&nbsp</p>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
   ACT Acoustics is a leading independent consultancy offering
    <br class="sm:hx-block hx-hidden" />
-   surveys, testing and design services across the UK. 
+   surveys, testing and design services across the UK.
 {{< /hextra/hero-subtitle >}}
 </div>
+
+<p>&nbsp</p>
 
 <div class="hx-mb-6">
 {{< hextra/hero-button text="Contact us" link="contact" >}}
 </div>
+
+<p>&nbsp</p>
 
 <div class="hx-mt-6"></div>
 
@@ -45,7 +50,7 @@ toc: false
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
     link="sectors"
   >}}
-  
+
     {{< hextra/feature-card
     title="Locations"
     subtitle="Click here to read more about where we work."
