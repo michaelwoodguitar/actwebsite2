@@ -57,6 +57,8 @@ params:
     displayTitle: false
     displayLogo: true
     logo:
+     path: images/actlogo.png
+     dark: images/actlogo.png
      width: 80
 
   footer:
