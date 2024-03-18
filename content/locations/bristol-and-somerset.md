@@ -3,7 +3,7 @@ title: Bristol and Somerset
 type: docs
 ---
 
-We are happy to provide [acoustic consulting services](../services/) to the
+We are happy to provide [acoustic consulting services](/services/) to the
 following areas of Bristol and Somerset:
 
 Taunton, Bath, Yeovil, Weston-super-Mare, Bridgwater, Frome,
@@ -14,5 +14,5 @@ Portishead,
 <p></p>
 
 <div class="hx-mb-6">
-{{< hextra/hero-button text="Contact us" link="/contact" >}}
+{{< hextra/hero-button text="Contact us" link="../../contact" >}}
 </div>
