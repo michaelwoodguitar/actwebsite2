@@ -37,8 +37,11 @@ menu:
     - name: Contact
       url: /contact
       weight: 4
-    - name: Search
+    - name: Request quote
+      url: https://www.quotientapp.com/e/44904-8ac4a0c2c06246b2af4e724c36128fe1/form
       weight: 5
+    - name: Search
+      weight: 6
       params:
         type: search
           # - name: GitHub
