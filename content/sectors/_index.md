@@ -1,12 +1,15 @@
 ---
 title: Sectors work work in
 ---
-We are pleased to offer services to:
 
 
-Our happy clients include:
+We provide practical acoustic solutions founded on technical excellence. Our
+diverse clients come from sectors, including construction, planning,
+healthcare, leisure, energy and mining.
 
-==Client list==
+Founded in 2017 we have grown rapidly, building a reputation for reliable,
+actionable advice. We are also experts in deploying state-of-the-art
+measurement equipment in a range of environments, from busy city centres to
+remote locations.
 
-And many more. 
 Why not [contact](../contact) us to find out how we can help?
