@@ -21,11 +21,9 @@ markup:
   highlight:
     noClasses: false
 
-
-
 menu:
   main:
-    - name: Our services
+    - name: Services
       pageRef: /services
       weight: 1
     - name: Sectors

@@ -1,5 +1,5 @@
 ---
-title: Geothermal Engineering Cornwall
+title: "Case Study: Geothermal Engineering Cornwall"
 ---
 
 Geothermal Engineering Ltd (GEL) is a leading developer in UK deep geothermal

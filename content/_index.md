@@ -7,8 +7,7 @@ toc: false
 <div class="hx-mt-6"></div>
 
 <div class="hx-mt-6 hx-mb-6">
-{{< hextra/hero-headline >}}
-  Noise surveys, testing
+{{< hextra/hero-headline >}} Noise surveys, testing
    <br class="sm:hx-block hx-hidden" />
    and advice
 {{< /hextra/hero-headline >}}
@@ -40,22 +39,30 @@ toc: false
     title="Services"
     subtitle="Click here to read more about the services we offer."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+    style="background: rgba(48,60,108,0.15);"
     link="services"
   >}}
   {{< hextra/feature-card
     title="Sectors"
-    subtitle="Click here to read more about the sectors we work."
+    subtitle=" We provide practical acoustic solutions founded on technical excellence. Our diverse clients come from sectors, including construction, planning, healthcare, leisure, energy and mining. Click here to read more about the sectors we work."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+    style="background: rgba(48,60,108,0.15);"
     link="sectors"
   >}}
 
-    {{< hextra/feature-card
+{{< hextra/feature-card
     title="Locations"
-    subtitle="Click here to read more about where we work."
+    subtitle="We provide UK-wide coverage. Click here to find out more."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
+    style="background: rgba(48,60,108,0.15);"
     link="locations"
+  >}}
+
+{{< hextra/feature-card
+    title="Case studies"
+    subtitle="Find out about our recent work."
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    style="background: rgba(48,60,108,0.15);"
+    link="case-studies"
   >}}
 {{< /hextra/feature-grid >}}
