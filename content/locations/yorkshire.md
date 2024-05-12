@@ -3,7 +3,7 @@ title: Yorkshire
 type: docs
 ---
 
-We are happy to provide [acoustic consulting services](/services/) to the
+We are happy to provide [acoustic consulting services](/services) to the
 following areas of Yorkshire:
 
 Leeds, Sheffield, Bradford, York, Hull, Wakefield, Harrogate, Scarborough,

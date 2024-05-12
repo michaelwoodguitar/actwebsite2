@@ -3,7 +3,7 @@ title: Gloucestershire and Wiltshire
 type: docs
 ---
 
-We are happy to provide [acoustic consulting services](/services/) to the
+We are happy to provide [acoustic consulting services](/services) to the
 following areas of Gloucestershire and Wiltshire:
 
 Gloucester, Cheltenham, Stroud, Tewkesbury, Cirencester, Dursley, Chipping

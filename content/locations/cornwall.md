@@ -3,7 +3,7 @@ title: Cornwall
 type: docs
 ---
 
-We are happy to provide [acoustic consulting services](/services/) to the
+We are happy to provide [acoustic consulting services](/services) to the
 following areas of Cornwall:
 
 Cornwall - Truro, Falmouth, Camborne, Redruth, St Austell, Newquay, Penzance,

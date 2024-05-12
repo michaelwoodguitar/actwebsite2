@@ -3,7 +3,7 @@ title: Devon
 type: docs
 ---
 
-We are happy to provide [acoustic consulting services](/services/) to the
+We are happy to provide [acoustic consulting services](/services) to the
 following areas of Devon:
 
 Devon, Exeter, Plymouth, Paignton, Torquay, Tiverton, Newton Abbot, Teignmouth,
